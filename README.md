@@ -1,4 +1,4 @@
-#  kthy positive missing number 
+#  kth positive missing number 
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
